@@ -1,6 +1,6 @@
 # RX72N-Envision-Kit-Case
 3D Model for Case of RX72N Envision Kit(Renesas)
-まだ作り中です．
+まだ作り中です．<br>
 プリント→修正→プリント→修正
 Daisoのモバイルバッテリー4000mAhを2台内蔵できるよう,大きめに作っています．
 スリムなタイプもそのうち作る予定です．
