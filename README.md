@@ -9,7 +9,7 @@ This model is still working in progress.<br>
 But you can you freely if you want.<br>
 
 ##Types
- 27- Hight of case is approximatery 27. This type can include 4000mAh battery.
- 20- Hight of case is approximatery 20. This type can include 3000mAh battery.
- Rightcover- This cover is used at right of LCD. The cover is common for 27type and 20type.
- -14 This Rightcover can include 14430 battery.
+ 27- Hight of case is approximatery 27. This type can include 4000mAh battery.<br>
+ 20- Hight of case is approximatery 20. This type can include 3000mAh battery.<br>
+ Rightcover- This cover is used at right of LCD. The cover is common for 27type and 20type.<br>
+ -14 This Rightcover can include 14430 battery.<br>
