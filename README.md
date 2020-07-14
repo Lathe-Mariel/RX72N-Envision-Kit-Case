@@ -1,14 +1,14 @@
-# RX72N-Envision-Kit-Case
-3D Model for Case of RX72N Envision Kit(Renesas)
+# RX72N-Envision-Kit-Case<br>
+3D Model for Case of RX72N Envision Kit(Renesas)<br>
 高さ20㎜のケースと,高さ27㎜のケースがとりあえず完成しています（それぞれ2ピース構造）．<br>
 27㎜のケースは,Daisoのモバイルバッテリ4000mAhを2台内蔵できるよう,大きめに作っています（要DCコネクタ外し）．<br>
 20㎜は現状，可能な限りスリムにしたタイプです．これでもDaisoの3000mAhは内蔵できると思います．<br>
-RightCoverは共通部品です．RightCoverにも背低タイプ（LCD面一）と，背高タイプ（14430内蔵可）があります．
+RightCoverは共通部品です．RightCoverにも背低タイプ（LCD面一）と，背高タイプ（14430内蔵可）があります．<br>
 <br>
 This model is still working in progress.<br>
 But you can use freely if you want.<br>
-There are two types, 27height and 20height.
-RightCovers can be used for both type.
+There are two types, 27height and 20height.<br>
+RightCovers can be used for both type.<br>
 
 ##Types<br>
  27- Hight of case is approximatery 27. This type can include 4000mAh battery.<br>
@@ -19,4 +19,4 @@ RightCovers can be used for both type.
 
 
 ##Ideas<br>
-I wanna make another RightCover that includes speaker or camera.
+I wanna make another RightCover that includes speaker or camera.<br>
